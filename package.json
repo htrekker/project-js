@@ -1,0 +1,8 @@
+{
+  "name": "project-js",
+  "version": "1.0.0",
+  "description": "Manage your project at broswer.",
+  "main": "index.js",
+  "author": "htrekker <hfz99@qq.com>",
+  "license": "MIT"
+}
